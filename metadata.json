@@ -1,0 +1,6 @@
+{
+  "name": "milo.",
+  "description": "Навчальний UI/UX-прототип сервісу онлайн-позик українською мовою за макетом Figma з інтерактивним калькулятором та кабінетом.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
